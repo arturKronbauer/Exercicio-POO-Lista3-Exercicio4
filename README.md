@@ -1,4 +1,4 @@
-# Exercicio-LPII-Lista2-Exercicio3
+# Exercicio-POO-Lista3-Exercicio4
 
 Fazer um programa para ler o caminho de um arquivo .csv contendo os dados de itens vendidos. Cada item possui um nome, preço unitário e quantidade, separados por vírgula. Você deve gerar um novo arquivo chamado "resumo.csv", localizado em uma subpasta chamada "resposta" a partir da pasta original do arquivo de origem, contendo apenas o nome e o valor total para aquele item (preço unitário multiplicado pela quantidade), conforme exemplo.
 
